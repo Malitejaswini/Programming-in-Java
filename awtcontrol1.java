@@ -3,7 +3,7 @@
     Que  :- Demonstrate Employee Details form using AWT Controls  */
 
 import java.awt.*;
-class awt1
+class awtcontrol1
 {
 	awt1()
 	{
@@ -63,6 +63,6 @@ class awt1
 	}
 	public static void main(String args[])
 	{
-		awt1 a=new awt1();
+		awtcontrol1 a=new awtcontrol1();
 	}
 }
