@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class condemo
+class constructor
 {
 condemo(int x)
 {
@@ -11,6 +11,6 @@ class constructor
 {
 public static void main(String args[])
 {
-condemo p1=new condemo(4);
+constructor p1=new constructor(4);
 }
 }
