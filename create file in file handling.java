@@ -1,3 +1,4 @@
+//Program to create file in file handling.
 import java.io.*;
 class fh
 {
